@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+	color:#717A81;
+}
+
+#hero{
+	background-image: url( "../img/slide-galaxy.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding-top: 100px ;
+	padding-bottom: 100px;
+	padding-left: 100px;
+	color: #FFFFFF;
+}
+ 
+
+
+#qled{
+	background-image: url( "../img/QLED-tv.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding: 100px 0;
+	color: #FFFFFF;
+
+}
+
+
+#Twin{
+	background-image: url(  "../img/Twin-cooling.png");
+	background-position: left;
+	background-color: #F1F1F1;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: left;
+	padding: 100px 0;
+	color: #FFFFFF;
+
+}
+
+#TVFRAME{
+	background-image: url( "../img/the_framev2.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding: 100px 0;
+	color: #FFFFFF;
+}
+
+
+.H1{
+	color: #000000
+}
+
+#btn {
+	border-color: black;
+	background-color:transparent;
+	border-width: medium;
+	color: #000000;
+	text-transform: uppercase;
+	width: 200px;
+	padding-left: 5%;
+	padding-right: 5%;
+	margin-top: 5%;
+}
+
+
+Footer{
+background-color: #FFF;
+color:#000000;
+font-family: 'Poppins', sans-serif;
+font-weight: 800px;
+text-align: center;
+padding: 10px 10px;
+	
+}
+
+.footer h2{
+	text-align:center
+}
